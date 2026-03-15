@@ -1,0 +1,5 @@
+
+
+Permutation -> Permutation II               -> Next Permutation(can be differently seen too) -> k times Permutation sequence
+N^2 * N! -> N * N!(visited index array/set)    get pivot and reverse                            k times the prev,   
+            OR Swap the index and index+1 for next call
